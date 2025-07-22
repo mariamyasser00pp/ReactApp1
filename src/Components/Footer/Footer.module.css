@@ -1,0 +1,15 @@
+footer{
+  background-color: rgb(3, 24, 34);
+}
+footer i{
+    border: 1px solid gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    align-content: center;
+    margin-right: 5px;
+}
+footer i:hover{
+    border: 1px solid rgb(124, 202, 233); 
+    color:rgb(124, 202, 233);
+}

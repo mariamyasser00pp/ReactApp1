@@ -1,0 +1,16 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: rgb(44, 161, 197) !important;
+}
+.nav-link {
+    font-size: 25px !important;
+    padding-right: 20px !important;
+}
+ /* contact */
+ .form-control {
+    box-shadow: none !important;
+    border: none !important;
+    border-bottom: 2px solid  rgb(44, 161, 197) !important;
+ }
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

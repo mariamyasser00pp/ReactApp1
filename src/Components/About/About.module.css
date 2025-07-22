@@ -1,0 +1,10 @@
+.test{
+   text-transform: uppercase; 
+   font-size: 30px;}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    margin: 0 5px;
+
+}
